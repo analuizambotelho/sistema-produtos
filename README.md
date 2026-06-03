@@ -42,9 +42,3 @@ Sistema desenvolvido em Python para registrar produtos e analisar informações 
 - Python 3
 - Estruturas utilizadas: dicionários, funções, loops `for` e `while`, tratamento de exceções com `try/except`
 
----
-
-## 👩‍💻 Autora
-
-Ana Luiza Botelho — Estudante de Ciências da Computação · Faculdade Impacta Tecnologia
-EOF
