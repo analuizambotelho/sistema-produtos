@@ -17,7 +17,7 @@ Sistema desenvolvido em Python para registrar produtos e analisar informações 
 
 ## 🚀 Como utilizar
 
-1. Acesse o notebook pelo link do Google Colab acima
+1. Acesse o notebook pelo link do Google Colab — https://colab.research.google.com/drive/12YnjxpocStgX_4ZQf2Zo_2SqltXomVGl?usp=sharing
 2. Execute a célula com o código
 3. Siga as instruções exibidas no terminal
 
